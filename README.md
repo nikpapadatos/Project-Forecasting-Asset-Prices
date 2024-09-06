@@ -41,8 +41,7 @@ Both of our strategies failed to outperform the Hedge Fund Research Index (HFRI)
 ## References
 
 - Tanya Molodtsova and David H. Papell. Taylor rule exchange rate forecasting duringthe financial crisis. NBER International Seminar on Macroeconomics, 9(1), 2012. [Link to paper](https://www.nber.org/papers/w18330).
+- Tutorial: The Kalman Filter [Link to paper](https://web.mit.edu/kirtley/kirtley/binlustuff/literature/control/Kalman%20filter.pdf).
+- Kalman Filter for Time Series Forecasting in Python [Link to paper](https://forecastegy.com/posts/kalman-filter-for-time-series-forecasting-in-python/)
 
-5. Run the analysis scripts:
-    ```bash
-    python merged.ipynb
-    ```
+
